@@ -1,0 +1,16 @@
+{
+	"fullName":"John Fitzgerald Kennedy (JFK)",
+	"gender":"Male",
+	"country":"United States of America",
+	"post":"35th President",
+	"terms":"1) January 20, 1961 to November 22, 1963",
+	"politicalParty":"Democratic",
+	"birthDate":
+	{
+	   "month":5,
+	   "day":29,
+	   "year":1917
+	},
+	"education":"Harvard College"
+}
+
